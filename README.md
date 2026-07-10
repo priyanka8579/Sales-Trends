@@ -1,5 +1,4 @@
-# task_07_DA
-Visualizing Sales Trends and Customer Behavior
+# Visualizing Sales Trends and Customer Behavior
 
 ### Retail Sales Analysis & Visualization (Superstore Dataset from kaggle): https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
